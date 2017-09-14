@@ -28,7 +28,7 @@ the programmer is responsible for completing all of the steps needed to satisfy
 the requirements for the assignment, thus causing a &#x2714; to instead appear
 in the commit logs. Designed for use with [GitHub
 Classroom](https://classroom.github.com/), this repository contains the
-solution for Laboratory 3 in Computer Science 111.
+starting code for Laboratory 3 in Computer Science 111.
 
 ## Introduction
 
